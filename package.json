@@ -1,4 +1,11 @@
 {
+  "name": "angular-input-modified",
+  "version": "2.0.6",
+  "description": "AngularJS module to detect and indicate input modifications",
+  "main": "src/angular-input-modified.js",
+  "dependencies": {
+    "angular": "~1.2.28"
+  },
   "devDependencies": {
     "del": "~0",
     "gulp": "~3",
